@@ -52,7 +52,6 @@ a full-stack dashboard developed during my internship, involving authentication,
 
 → [check out the repository](https://github.com/farah21109/HMWSSB_Dashboard.git)
 
-*I'll add direct links to individual project repositories here.*
 
 ### `04` — currently working on
 
