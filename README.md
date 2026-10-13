@@ -44,13 +44,13 @@ hii! i'm a computer science student who enjoys turning ideas into things that ac
 
 an AI-focused learning project that i'm proud of.
 
-→ [check out the repository](https://github.com/farah21109)
+→ [check out the repository](https://github.com/farah21109/learnmate-nextjs.git)
 
 **Officers Dashboard**
 
 a full-stack dashboard developed during my internship, involving authentication, estimate management, and role-based workflows.
 
-→ [explore my repositories](https://github.com/farah21109?tab=repositories)
+→ [explore my repositories](https://github.com/farah21109/HMWSSB_Dashboard.git)
 
 *I'll add direct links to individual project repositories here.*
 
