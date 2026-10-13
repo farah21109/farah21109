@@ -50,7 +50,7 @@ an AI-focused learning project that i'm proud of.
 
 a full-stack dashboard developed during my internship, involving authentication, estimate management, and role-based workflows.
 
-→ [explore my repositories](https://github.com/farah21109/HMWSSB_Dashboard.git)
+→ [check out the repository](https://github.com/farah21109/HMWSSB_Dashboard.git)
 
 *I'll add direct links to individual project repositories here.*
 
